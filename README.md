@@ -33,6 +33,7 @@ Following files are included in this directory:
 Data files are not included in this repo, all of which can be downloaded under section **New York City** from [here](http://insideairbnb.com/get-the-data.html). 
 
 To run the Notebook, following downloaded data files need to be put under home directory:
+
 |Date Compiled|City|File Name|Description|
 | ------ | ------ | ------ | ------ |
 |2019-03-06|New York City|listings.csv.gz|Detailed Listings data for New York City|
