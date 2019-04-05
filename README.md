@@ -7,8 +7,8 @@ Analyzing dataset for Airbnb listings in New York City as of `2019-03-06`, findi
 ### Table of Contents
 
 1. [Installations](#Installations)
-2. [Project Motivation](#Project Motivation)
-3. [File Descriptions](#File Descriptions)
+2. [Project Motivation](#Motivation)
+3. [File Descriptions](#File)
 4. [Instructions](#Instructions)
 5. [Licensing, Authors, Acknowledgements](#Licensing)
 
@@ -24,7 +24,7 @@ Python 3 environment with following libraries:
 * `xgboost`
 * `shap`
 
-### Project Motivation<a name="Project Motivation"></a>
+### Project Motivation<a name="Motivation"></a>
 
 In this project, I am interested in finding insights from Airbnb dataset in New York City. Three main questions for me to start with are below:
 
@@ -32,7 +32,7 @@ In this project, I am interested in finding insights from Airbnb dataset in New 
 * How much time in advance is best to book an Airbnb before going to NYC?
 * What are the key features that affects NYC Airbnb prices?
 
-### File Descriptions<a name="File Descriptions"></a>
+### File Descriptions<a name="File"></a>
 
 Following files are included in this directory:
 
