@@ -4,13 +4,16 @@
 
 Analyzing dataset for Airbnb listings in New York City as of `2019-03-06`, finding insights and publish [Data Science Blog](https://medium.com/@tma995/3-tips-of-booking-nyc-airbnb-homes-for-solo-adventurers-10782392e12f).
 
+
 ### Table of Contents
+
 
 1. [Installations](#Installations)
 2. [Project Motivation](#Motivation)
 3. [File Descriptions](#File)
 4. [Instructions](#Instructions)
 5. [Licensing, Authors, Acknowledgements](#Licensing)
+
 
 ### Installations<a name="Installations"></a>
 
